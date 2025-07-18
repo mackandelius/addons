@@ -32,7 +32,6 @@ ports:
   80/tcp: null
   7359/udp: 7359
   8096/tcp: 8096
-  8920/tcp: 8920 
 schema:
   domain: str
   hsts: str
